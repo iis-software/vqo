@@ -3,7 +3,7 @@
 Visual Query Optimizer a product of IIS-Software, Inc. 
 email: iis@iis-software.com 
 
-Kinldy, email us for professonal assistance and for access to the tar files to setup vqo. 
+Kinldy, email us for professonal assistance and for access to the downloadable tar files. 
 
 
 The aim of VisualQueryOptimizer is to provide an easy to use UI interface to help optimize intercept and modify queries while in-transit towards its destination database to take advantage of the latest features of AWS Cloud related to improvements in query efficiency, server-less clustering (Spectrum) and use on S3 as external tables (Glue Data Catalog). In addition Visual Query Optimizer is designed to auto spin up additional Redshift Clusters to initiate a multi-cluster Redshift Archtecture to remedy and scale beyond the current RedShift limitation around 50 concurrent queries per Cluster. Plus, support for dynamic metadata tables/views creation at run-time per cluster in the multi-clustered environment.
