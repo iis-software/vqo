@@ -60,7 +60,7 @@ wget https://pgbouncer-rr.github.io/downloads/files/1.7.2/pgbouncer-rr-1.7.2.tar
 
 wget https://visualQueryOptimizer.github.io/downloads/files/1.0/visualqueryoptimizer-1.0.tar.gz
 
-# rename and unzip both folders with:
+# rename and unzip both folders with:   
 
 tar -xvzf pgbouncer-rr-1.7.2.tar.gz
 
