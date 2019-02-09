@@ -42,7 +42,7 @@ sudo yum install postgresql-server postgresql-contrib
 
 # for debugging purposes, to check that we can connect to the Redshift endpoint directly using jdbc. Make sure endpoint, port and database name is correct
 
-psql -h <Redshift Endpoint> -p 5439 –d dev -U <dbname>_<user_name> 
+psql -h <Redshift Endpoint> -p 5439 –d dev -U <user_name> 
 
 #use ctrl-z to come out
 
