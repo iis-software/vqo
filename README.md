@@ -15,7 +15,7 @@ Routing: User Interface to help pgbouncer-rr to intelligently send queries to di
 
 Rewrite: Using the UI, visually intercept and visually change client queries before they are sent to the server: use it to optimize or otherwise alter queries without modifying your application.
 
-One can elect to deploy multiple instances of VisualQueryOptimizer to avoid throughput bottlenecks or single points of failure, or to support multiple configurations – which is what we have done in our environment as outlined below. It can live in an Auto Scaling group, and behind an Elastic Load Balancing load balancer. It can be deployed to a public subnet while your servers reside in private subnets. You can choose to run it as a bastion server using SSH tunneling.  You can use PgBouncer-rr’s recently introduced SSL support for encryption and authentication.
+You can elect to deploy multiple instances of VisualQueryOptimizer to avoid throughput bottlenecks or single points of failure, or to support multiple configurations – which is what we have done in our environment as outlined below. It can live in an Auto Scaling group, and behind an Elastic Load Balancing load balancer. It can be deployed to a public subnet while your servers reside in private subnets. You can choose to run it as a bastion server using SSH tunneling.  You can use PgBouncer-rr’s recently introduced SSL support for encryption and authentication.
 
 VisualQueryOptimizer Architecture Flowchart
 
