@@ -1,6 +1,6 @@
 # vqo
-# VisualQueryOptimizer
-Visual Query Optimizer a product of IIS-Software, Inc. 
+# VisualQueryOptimizerConverter
+Visual Query Optimizer & Convertoer a product of IIS-Software, Inc. 
 email: iis@iis-software.com 
 
 Kinldy, email us for professonal assistance and for access to the downloadable tar files:  email: iis@iis-software.com
