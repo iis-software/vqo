@@ -1,5 +1,5 @@
 # vqo
-# VisualQueryOptimizerConverter, SQL Translator
+# VisualQueryOptimizer - SQL Translator
 Visual Query Optimizer & Converter a product of IIS-Software, Inc. 
 email: iis@iis-software.com 
 
